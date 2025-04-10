@@ -1,2 +1,2 @@
-# 100Days-of-Cpp
-Each Day, one Cpp project will be made in this repo
+# 100 Days of C/C++ projects
+This is a project based learning repo, my goal by the end of this is to be well in C/C++
