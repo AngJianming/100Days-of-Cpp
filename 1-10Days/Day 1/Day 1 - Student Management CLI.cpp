@@ -99,7 +99,8 @@ void StudentManager::searchStu()
 {
     cout << "Enter Student Roll Number to search: ";
     string key;
-    getline(cin, key);
+    // get roll number from user
+    getline(cin, key); // read the entire line including spaces
     bool found = false;
 
     file.open("stuData.txt", ios::in);
