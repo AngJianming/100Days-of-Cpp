@@ -21,9 +21,9 @@ Welcome to this project based learning repo, the target here is to be well in C/
 
 | Day | Project / Topic | Language | Status |
 |-----|------------------|----------|--------|
-| 1   | Hello World + Setup | C++ | ✅ |
-| 2   | Basic Calculator | C | ✅ |
-| 3   | Factorial (Recursion) | C | ✅ |
+| 1   | Student Management System CLI | C++ | ✅ |
+| 2   | Login & Registration CLI | C++ | ✅ |
+| 3   | Calculator | C | 🔜 |
 | ... | ... | ... | ... |
 
 > ✅ = Completed, 🔄 = In Progress, 🔜 = Upcoming
