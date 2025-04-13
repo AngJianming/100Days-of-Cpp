@@ -1,7 +1,7 @@
 # Step-by-Step Guide: Compiling and Running on Bash
 
 ## Save the Code
-Save the code above into a file with a suitable name. For example, name it `StudentManagementCLI.cpp`.
+Save the code above into a file with a suitable name. For example, name it `admin.cpp`.
 
 > **Pro tip:** Avoid spaces in filenames. If you must have them, you'll need to wrap the filename in quotes when compiling.
 
@@ -10,7 +10,7 @@ Save the code above into a file with a suitable name. For example, name it `Stud
 - **Windows (with Git Bash/Cygwin):** Open your Bash terminal.
 
 ## Navigate to the File’s Directory
-Use the `cd` command to move to the folder where you saved `StudentManagementCLI.cpp`.
+Use the `cd` command to move to the folder where you saved `'Day 1 - Student Management System CLI'`.
 
 ```bash
 cd /path/to/your/code/directory
